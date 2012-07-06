@@ -1,4 +1,4 @@
 utility-mixins
 ==============
 
-Handy utilitiy mixinx for front end web development.
+Handy utility mix-ins for front end web development.
